@@ -1,4 +1,4 @@
-# Algorithm_dynamic-programming_C_plusplus
+# Algorithm: Dynamic Programming
 **A program that generates the Bézier curve for a given set of points based on dynamic programming, Implementation in C++**
 
 ## Description
