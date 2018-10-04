@@ -1,5 +1,5 @@
 # Algorithm_dynamic-programming_C_plusplus
-## A program that generates the Bézier curve for a given set of points based on dynamic programming implemented in C++
+## A program that generates the Bézier curve for a given set of points based on dynamic programming, Implementation in C++
 
 ## Description
 - 使用之程式語言：**< C++ >**
