@@ -4,11 +4,10 @@
 ## Description
 - 使用之程式語言：**< C++ >**
 - 使用之編譯器：**< g++ (gcc version 5.4.0) >**
-- 檔案壓縮方式: **< zip >**
 - 各檔案說明：
 	- main.cpp : C++ source code 主程式
 	- pa1  : main.cpp compile 後的 Unix executable binary code執行檔
-	- Readme.txt : 本說明文字檔
+	- Readme.md : 本說明文字檔
 
 - 編譯方式說明：        	
    	* 主程式：main.cpp
